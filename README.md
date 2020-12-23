@@ -1,2 +1,6 @@
 # hello-world
-practice
+
+
+Hello, I am GS and new to GITHUB!
+
+
